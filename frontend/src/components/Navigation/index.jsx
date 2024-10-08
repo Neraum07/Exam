@@ -1,3 +1,6 @@
+import { Outlet, Link } from 'react-router-dom'
+import "./style.scss"
+
 function Navigation() {
     return (
         <>
